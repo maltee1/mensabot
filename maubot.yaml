@@ -1,0 +1,13 @@
+maubot: 0.1.0
+id: org.maltee.mensabot
+version: 0.0.1
+license: AGPL-3.0
+modules:
+  - mensabot
+main_class: MensaBot
+dependencies:
+  - emoji
+  - datetime
+  - re
+  - bs4
+  - requests
